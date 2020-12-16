@@ -1,0 +1,205 @@
+"","course","task","weight"
+"1","0","0",0
+"2","BIOL1020","Online Quiz:Online Learning (EdX) questions",NA
+"3","BIOL1020","Readings:Textbook readings and associated questions",NA
+"4","BIOL1020","Mini-test:Mini-tests",NA
+"5","BIOL1020","Exam - during Exam Period (Central):Online invigilated exam",0.5
+"6","BIOL1040","Practical:Practical Report - Osmosis",0.05
+"7","BIOL1040","Practical:Practical Report - Action Potential",0.05
+"8","BIOL1040","Practical:Practical Report - Skeletal Muscle",0.05
+"9","BIOL1040","Practical:Practical Report - Plant Form & Function",0.05
+"10","BIOL1040","Communication:Personal Response",0.06
+"11","BIOL1040","Communication - eConference:Biohorizons - PowerPoint Presentation",0.05
+"12","BIOL1040","Communication - eConference:Biohorizons - Professional Response",0.1
+"13","BIOL1040","Online Quiz:Mastering Biology Quiz 1 - Modules 1 & 2",0.03
+"14","BIOL1040","Online Quiz:Mastering Biology Quiz 2 - Modules 3 & 4",0.03
+"15","BIOL1040","Online Quiz:Mastering Biology Quiz 3 - Modules 5 & 6",0.03
+"16","BIOL1040","Exam - during Exam Period (Central):Online (Blackboard) Invigilated Theory Exam",0.5
+"17","BIOM1051","Practical:Practical Report - Osmosis",0.05
+"18","BIOM1051","Practical:Practical Report - Action Potential",0.05
+"19","BIOM1051","Practical:Practical Report - Skeletal Muscle",0.05
+"20","BIOM1051","Practical:Practical Report - Biochemistry",0.05
+"21","BIOM1051","Communication:Personal Response",0.06
+"22","BIOM1051","Communication - eConference:Biohorizons - PowerPoint Presentation",0.05
+"23","BIOM1051","Communication - eConference:Biohorizons - Professional Response",0.1
+"24","BIOM1051","Online Quiz:Mastering Biology Quiz 1 - Modules 1 & 2",0.03
+"25","BIOM1051","Online Quiz:Mastering Biology Quiz 2 - Modules 3 & 4",0.03
+"26","BIOM1051","Online Quiz:Mastering Biology Quiz 3 - Modules 5 & 6",0.03
+"27","BIOM1051","Exam - during Exam Period (Central):Online (Blackboard) Invigilated Theory Exam",0.5
+"28","BIOM1052","Meta-learning:Meta-learning task 1",0.03
+"29","BIOM1052","Meta-learning:Meta-learning task 2",0.03
+"30","BIOM1052","Meta-learning:Meta-learning task 3",0.03
+"31","BIOM1052","Meta-learning:Meta-learning task 4",0.03
+"32","BIOM1052","Practical Worksheets:Microanatomy of the Skin, EMG & Somatosensory",NA
+"33","BIOM1052","Assignment:System integration concept map",0.18
+"34","BIOM1052","Exam - Mid Semester Outside Scheduled Class:Mid-Semester theory exam",0.2
+"35","BIOM1052","Exam - during Exam Period (Central):End of Semester theory exam",0.5
+"36","BIOM2009","Report:Virtual Ileum Report",0.1
+"37","BIOM2009","Online Quiz:Online Summary Quiz 1",0.1
+"38","BIOM2009","Online Quiz:Online Summary Quiz 2",0.1
+"39","BIOM2009","Report:Practical report",0.2
+"40","BIOM2009","Exam - during Exam Period (Central):Online (Blackboard) Invigilated Theory Exam",0.5
+"41","BIOM2010","Exam - Mid Semester During Class:Mid Semester Exam",0.35
+"42","BIOM2010","Exam - during Exam Period (Central):End of Semester Written exam",0.5
+"43","BIOM2010","Management of Learning:Meta-learning 1 /  Guided revision 1",0.03
+"44","BIOM2010","Management of Learning:Meta-learning 2 /  Guided revision 2",0.03
+"45","BIOM2010","Management of Learning:Meta-learning 3 /  Guided revision 3",0.03
+"46","BIOM2010","Management of Learning:Meta-learning 4 /  Guided revision 4",0.03
+"47","BIOM2010","Management of Learning:Meta-learning 5 / Guided revision 5",0.03
+"48","BIOM2015","Video:Disruption of homeostasis video or written text",0.17
+"49","BIOM2015","Management of Learning:Meta-learning task",0.02
+"50","BIOM2015","In Class Quiz:Laboratory quiz (Spirometry)",0.03
+"51","BIOM2015","Online Quiz:Laboratory quiz (Oral Glucose Tolerance Test)",0.03
+"52","BIOM2015","Online Quiz:Laboratory Quiz (Blood Pressure)",0.03
+"53","BIOM2015","Online Quiz:Laboratory Quiz (ECG)",0.03
+"54","BIOM2015","Online Quiz:Laboratory Quiz (Exercise)",0.03
+"55","BIOM2015","Online Quiz:Laboratory quiz (Somatosensory)",0.03
+"56","BIOM2015","Online Quiz:Laboratory quiz (Parkinson's Disease)",0.03
+"57","BIOM2015","Exam - during Exam Period (Central):Online (Blackboard) Invigilated Theory Exam",0.6
+"58","BIOM3010","Online Quiz:Heart Sounds and Blood Pressure",0.05
+"59","BIOM3010","Online Quiz:Diuretics",0.05
+"60","BIOM3010","Exam - Mid Semester During Class:Mid Semester Theory Exam",0.25
+"61","BIOM3010","Exam - during Exam Period (Central):Online (Blackboard) Invigilated Theory Exam",0.65
+"62","BIOM3011","Online Quiz:Antimicrobial Drugs and Resistance Quiz",0.15
+"63","BIOM3011","Case Study:Respiratory Pharmacology Quiz & Disease Case Study",0.25
+"64","BIOM3011","Exam - during Exam Period (Central):End of Semester Theory Exam",0.6
+"65","CHEM1222","Laboratory:Laboratory Experiments",0.2
+"66","CHEM1222","Online Quizzes:Sapling Online Quizzes",0.1
+"67","CHEM1222","Workbook:Workshop Activities",0.1
+"68","CHEM1222","Exam - Mid Semester Outside Scheduled Class:Mid-Semester Exam",0.2
+"69","CHEM1222","Exam - during Exam Period (Central):End of Semester Exam",0.4
+"70","HLTH1000","A4:Online & in-class tutorial learning summaries",0.2
+"71","HLTH1000","A1:Reflection and short answer",0.2
+"72","HLTH1000","A2:Report (Group)",0.3
+"73","HLTH1000","A3:Short answer essay",0.3
+"74","PHRM1011","Exam - outside Exam Period (School):Health Sciences Language Screening Test",NA
+"75","PHRM1011","Peer Teaching Video:Peer Teaching Video",0.05
+"76","PHRM1011","Exam - outside Exam Period (School):Consultation Exam (OTC product request)",0.1
+"77","PHRM1011","Online Quiz:Weekly feedback quizzes (outside class time)",0.15
+"78","PHRM1011","Reflection:Practical Learning Summary",0.1
+"79","PHRM1011","Exam - during Exam Period (Central):Online non-invigilated exam",0.6
+"80","PHRM1012","Work-based Assessment:Community Pharmacy Placement",0.05
+"81","PHRM1012","Exam -during Exam Period (School):Oral Exam (Symptom based request)",0.2
+"82","PHRM1012","Work-based Assessment:Preceptor Evaluation",NA
+"83","PHRM1012","Practical worksheets:Practical worksheets",NA
+"84","PHRM1012","Online Quiz:Online Feedback Quizzes 10×2%",0.2
+"85","PHRM1012","Exam - during Exam Period (Central):Written Exam",0.55
+"86","PHRM1020","Online Quiz:Pharm. calculations: BlackBoard Quizzes (4 x 2.5%)",0.1
+"87","PHRM1020","Tests:Pharmaceutical calculations: Tests (4x10%)",0.4
+"88","PHRM1020","Tutorial Exercise:Data analysis:Computer laboratory workshops (8x1%)",0.08
+"89","PHRM1020","Exam - during Exam Period (Central):Data analysis online non-invigilated examination",0.42
+"90","PHRM2011","Online Quiz:Blackboard Quizzes (x5)",0.1
+"91","PHRM2011","Participation:Participation & engagement in practical sessions",0
+"92","PHRM2011","Dispensing Exam (Blackboard & Zoom)):Dispensing Exam",NA
+"93","PHRM2011","Short answer Quiz:Report writing preparation: Database/references",0.1
+"94","PHRM2011","Video:Consultation Video Assessment",0.2
+"95","PHRM2011","Exam - during Exam Period (Central):End of Semester online non-invigilated exam",0.6
+"96","PHRM2012","Work-based Assessment:Community Placement Attendance & Evaluation",NA
+"97","PHRM2012","Attendance:Hospital Pharmacy Placement/Visit",NA
+"98","PHRM2012","Oral Examination:Consultation Exam",0.25
+"99","PHRM2012","Professional Development Log:Five (5) Reflective Tasks",0.2
+"100","PHRM2012","Dispensing Assessment:Dispensing Examination",NA
+"101","PHRM2012","Exam - during Exam Period (Central):Written End-of-Semester Examination",0.55
+"102","PHRM2021","Laboratory:Laboratory Online Quiz",0.3
+"103","PHRM2021","Exam - during Exam Period (Central):Online invigilated examination",0.7
+"104","PHRM2022","Laboratory:Laboratory worksheets and laboratory exam",0.4
+"105","PHRM2022","Online Quiz:Calculation quiz",0.05
+"106","PHRM2022","Exam - during Exam Period (Central):Written examination",0.55
+"107","PHRM2030","Report:Written Assignment (individual)",0.4
+"108","PHRM2030","Self directed learning modules:Cultural Safety learning module and attached quiz",NA
+"109","PHRM2030","Exam - during Exam Period (Central):Written examination",0.6
+"110","PHRM2040","Online mid-semester exam:Online mid-semester exam",0.3
+"111","PHRM2040","Exam - during Exam Period (Central):Online invigilated End-of-Semester Exam",0.7
+"112","PHRM2041","Laboratory Worksheets & Quiz:Drug Analysis Lab Assessment (Group & Individual)",0.3
+"113","PHRM2041","Exam - Mid Semester Outside Scheduled Class:Drug Analysis Written Exam (Individual)",0.35
+"114","PHRM2041","Exam - during Exam Period (Central):Medicinal Chemistry Written Exam (Individual)",0.35
+"115","PHRM2050","Online Quiz:Online Quiz 1",0.1
+"116","PHRM2050","Online Quiz:Online Quiz 2",0.08
+"117","PHRM2050","Online Quiz:Online Quiz 3",0.09
+"118","PHRM2050","Online Quiz:Online Quiz 4",0.04
+"119","PHRM2050","Online Quiz:Online Quiz 5",0.09
+"120","PHRM2050","Exam - during Exam Period (Central):Written Examination",0.6
+"121","PHRM3011","Participation:Workshop learning activities (practicals)",0
+"122","PHRM3011","Practical:Dispensing Accuracy Test (week 5)",0.05
+"123","PHRM3011","Exam - during Exam Period (Central):Online invigilated examination (written exam)",0.6
+"124","PHRM3011","Exam - during Exam Period (School):Oral Consultation Exam",0.2
+"125","PHRM3011","Online Quiz:Online Quizzes",NA
+"126","PHRM3011","Online Quiz:1) Dispensing & Smoking Cessation (starts week 1)",0.03
+"127","PHRM3011","Online Quiz:2) Arrhythmias (starts week 3)",0.03
+"128","PHRM3011","Online Quiz:3) Hypertension (starts week 6)",0.03
+"129","PHRM3011","Online Quiz:4) Coronary Heart Disease (starts week 8)",0.03
+"130","PHRM3011","Online Quiz:5) Heart failure (starts week 10)",0.03
+"131","PHRM3012","Participation:Hospital Experiential Learning",NA
+"132","PHRM3012","Participation:Practicals",NA
+"133","PHRM3012","Online Quiz:Online quizzes",NA
+"134","PHRM3012","Work-based Assessment:Community Pharmacy Placement",NA
+"135","PHRM3012","Practical:Oral Exam",NA
+"136","PHRM3012","Exam - during Exam Period (Central):Written exam",NA
+"137","PHRM3021","Practical:Laboratory-based practicals",0.1
+"138","PHRM3021","Online Quiz:Online Quiz on extemporaneous compounding SDL",0.2
+"139","PHRM3021","Exam - during Exam Period (Central):Online non-invigilated examination",0.7
+"140","PHRM3031","Online Quiz:Feedback quizzes (3)",NA
+"141","PHRM3031","Exam - during Exam Period (Central):Final examination",0.7
+"142","PHRM3032","Online Quiz:Blackboard quizzes",NA
+"143","PHRM3032","Exam - during Exam Period (Central):Written Exam",0.7
+"144","PHRM3041","Computer-based Assessment:Journal article-based MCQ quiz",0.3
+"145","PHRM3041","Exam - during Exam Period (Central):Online non-invigilated examination",0.7
+"146","PHRM3042","Online Quiz:Quiz - SDL Week 1",0.1
+"147","PHRM3042","Online Quiz:Quiz - Practical Schedule 1",0.1
+"148","PHRM3042","Online Quiz:Quiz - SDL week 6",0.1
+"149","PHRM3042","Online Quiz:Quiz - Practical Schedule 2",0.1
+"150","PHRM3042","Online Quiz:Quiz - Practical Schedule 3",0.1
+"151","PHRM3042","Exam - during Exam Period (Central):Written Examination",0.5
+"152","PHRM3052","Problem Set/s:Collaborative Learning Exercises",0.1
+"153","PHRM3052","Exam - Mid Semester Outside Scheduled Class:Mid-semester exam",0.3
+"154","PHRM3052","Calculations Assignment:Pharmacokinetic calculations group assignment",0.1
+"155","PHRM3052","Exam - during Exam Period (Central):Final exam",0.5
+"156","PHRM4011","Dispensing:Dispensing and Checking",NA
+"157","PHRM4011","Online Quiz:Online Quizzes",NA
+"158","PHRM4011","Online Quiz:Quiz 1",0.02
+"159","PHRM4011","Online Quiz:Quiz 2",0.02
+"160","PHRM4011","Online Quiz:Quiz 3",0.02
+"161","PHRM4011","Online Quiz:Online non-invigilated Mid Semester Exam",0.2
+"162","PHRM4011","Online Quiz:Quiz 4",0.02
+"163","PHRM4011","Online Quiz:Quiz 5",0.02
+"164","PHRM4011","Online Quiz:Quiz 6",0.02
+"165","PHRM4011","Online Quiz:Quiz 7",0.02
+"166","PHRM4011","Exam - during Exam Period (Central):Online invigilated End of Semester Exam",0.66
+"167","PHRM4012","Participation:Vaccination training and certification",0
+"168","PHRM4012","Online Quiz:Therapeutics Quiz One",0.02
+"169","PHRM4012","Online Quiz:Ethics Quiz",0.02
+"170","PHRM4012","Online Quiz:Therapeutics Quiz Two",0.02
+"171","PHRM4012","Online Quiz:Therapeutics Quiz Three",0.02
+"172","PHRM4012","Exam - Mid Semester Outside Scheduled Class:Patient Integrated Case mid-semester exam",0.17
+"173","PHRM4012","Online Quiz:Therapeutics Quiz Four",0.02
+"174","PHRM4012","Online Quiz:Therapeutics Quiz Five",0.02
+"175","PHRM4012","Exam - during Exam Period (School):OSCE Oral Exam",0.21
+"176","PHRM4012","Exam - during Exam Period (Central):PHRM4012 written exam",0.5
+"177","PHRM4021","Presentation:1. Poster (Individual assessment)",0.25
+"178","PHRM4021","Prework:2. Formulation Prework and Plan (Group assessment)",0.1
+"179","PHRM4021","Paper:3. Integrating theory (Individual assessment)",0.65
+"180","PHRM4022","Blackboard Quiz #1 (Group Assessment):Tablet QC Project: Preparation Worksheet",0.1
+"181","PHRM4022","Blackboard Quiz #2 (Individual Assessment):QC Case Studies: A) API Identity/Purity",0.15
+"182","PHRM4022","Blackboard Quiz #3 (Individual Assessment):QC Case Studies: B) Dosage Form Analysis",0.15
+"183","PHRM4022","Lab Book & Results Summary (Ind & Gp Assessment):Tablet QC Project: Lab Book & Results Summary",0.3
+"184","PHRM4022","Oral Presentation (Group Assessment):Tablet QC Project: Oral Presentation",0.3
+"185","PHRM4031","Online Quiz:Weekly quiz",0.1
+"186","PHRM4031","Written Assignment:Assignment One",0.15
+"187","PHRM4031","Written Assignment:Assignment Two",0.15
+"188","PHRM4031","Exam - during Exam Period (Central):Business of Healthcare Exam",0.6
+"189","PHRM4061","Statement:Confidentiality Statement",NA
+"190","PHRM4061","Project Plan:Ethics and Project Approval Application",0.2
+"191","PHRM4061","Work-based Assessment:Preceptor Evaluation",NA
+"192","PHRM4061","Attendance:QUM Research Placement",NA
+"193","PHRM4061","Professional Development Log:Reflective Placement Diary",0.1
+"194","PHRM4061","Project Report:QUM Research Reports (Written & Oral presentation)",NA
+"195","PHRM4061","Attendance:QUM Research Project Oral Presentation Attendance",NA
+"196","PHRM4062","Work-based Assessment:Placement Attendance and Student Evaluation",NA
+"197","PHRM4062","Professional Development Log:Lifelong Learning (2) & Employability (1) Tasks",0.3
+"198","PHRM4062","Professional Development Log:Seven (7) NCS & QUM Tasks",0.7
+"199","PHRM4080","Project Plan:Pitch your research plan",0.1
+"200","PHRM4080","Literature Review:Literature Review",0.15
+"201","PHRM4080","Paper:Research Paper",0.45
+"202","PHRM4080","Resource File:Research data records and performance",0.1
+"203","PHRM4080","Reflection:Seminar Reflection",0.1
+"204","PHRM4080","Presentation:Final Oral Presentation",0.1
