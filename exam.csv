@@ -1,0 +1,47 @@
+course,task,descriptor,descriptor2,weight,exam
+BIOL1020,Exam - during Exam Period (Central),Online invigilated exam,NA,0.5,1
+BIOL1040,Exam - during Exam Period (Central),Online (Blackboard) Invigilated Theory Exam,NA,0.5,1
+BIOM1051,Exam - during Exam Period (Central),Online (Blackboard) Invigilated Theory Exam,NA,0.5,1
+BIOM1052,Exam - Mid Semester Outside Scheduled Class,Mid-Semester theory exam,NA,0.2,1
+BIOM1052,Exam - during Exam Period (Central),End of Semester theory exam,NA,0.5,1
+BIOM2009,Exam - during Exam Period (Central),Online (Blackboard) Invigilated Theory Exam,NA,0.5,1
+BIOM2010,Exam - Mid Semester During Class,Mid Semester Exam,NA,0.35,1
+BIOM2010,Exam - during Exam Period (Central),End of Semester Written exam,NA,0.5,1
+BIOM2015,Exam - during Exam Period (Central),Online (Blackboard) Invigilated Theory Exam,NA,0.6,1
+BIOM3010,Exam - Mid Semester During Class,Mid Semester Theory Exam,NA,0.25,1
+BIOM3010,Exam - during Exam Period (Central),Online (Blackboard) Invigilated Theory Exam,NA,0.65,1
+BIOM3011,Exam - during Exam Period (Central),End of Semester Theory Exam,NA,0.6,1
+CHEM1222,Exam - Mid Semester Outside Scheduled Class,Mid-Semester Exam,NA,0.2,1
+CHEM1222,Exam - during Exam Period (Central),End of Semester Exam,NA,0.4,1
+PHRM1011,Exam - outside Exam Period (School),Health Sciences Language Screening Test,NA,0,1
+PHRM1011,Exam - outside Exam Period (School),Consultation Exam (OTC product request),NA,0.1,1
+PHRM1011,Exam - during Exam Period (Central),Online non-invigilated exam,NA,0.6,1
+PHRM1012,Exam -during Exam Period (School),Oral Exam (Symptom based request),NA,0.2,1
+PHRM1012,Exam - during Exam Period (Central),Written Exam,NA,0.55,1
+PHRM1020,Exam - during Exam Period (Central),Data analysis online non-invigilated examination,NA,0.42,1
+PHRM2011,Dispensing Exam (Blackboard & Zoom)),Dispensing Exam,NA,0,1
+PHRM2011,Exam - during Exam Period (Central),End of Semester online non-invigilated exam,NA,0.6,1
+PHRM2012,Oral Examination,Consultation Exam,NA,0.25,1
+PHRM2012,Exam - during Exam Period (Central),Written End-of-Semester Examination,NA,0.55,1
+PHRM2021,Exam - during Exam Period (Central),Online invigilated examination,NA,0.7,1
+PHRM2022,Exam - during Exam Period (Central),Written examination,NA,0.55,1
+PHRM2030,Exam - during Exam Period (Central),Written examination,NA,0.6,1
+PHRM2040,Exam - during Exam Period (Central),Online invigilated End-of-Semester Exam,NA,0.7,1
+PHRM2041,Exam - Mid Semester Outside Scheduled Class,Drug Analysis Written Exam (Individual),NA,0.35,1
+PHRM2041,Exam - during Exam Period (Central),Medicinal Chemistry Written Exam (Individual),NA,0.35,1
+PHRM2050,Exam - during Exam Period (Central),Written Examination,NA,0.6,1
+PHRM3011,Exam - during Exam Period (Central),Online invigilated examination (written exam),NA,0.6,1
+PHRM3011,Exam - during Exam Period (School),Oral Consultation Exam,NA,0.2,1
+PHRM3012,Exam - during Exam Period (Central),Written exam,NA,0.6,1
+PHRM3021,Exam - during Exam Period (Central),Online non-invigilated examination,NA,0.7,1
+PHRM3031,Exam - during Exam Period (Central),Final examination,NA,0.7,1
+PHRM3032,Exam - during Exam Period (Central),Written Exam,NA,0.7,1
+PHRM3041,Exam - during Exam Period (Central),Online non-invigilated examination,NA,0.7,1
+PHRM3042,Exam - during Exam Period (Central),Written Examination,NA,0.5,1
+PHRM3052,Exam - Mid Semester Outside Scheduled Class,Mid-semester exam,NA,0.3,1
+PHRM3052,Exam - during Exam Period (Central),Final exam,NA,0.5,1
+PHRM4011,Exam - during Exam Period (Central),Online invigilated End of Semester Exam,NA,0.66,1
+PHRM4012,Exam - Mid Semester Outside Scheduled Class,Patient Integrated Case mid-semester exam,NA,0.17,1
+PHRM4012,Exam - during Exam Period (School),OSCE Oral Exam,NA,0.21,1
+PHRM4012,Exam - during Exam Period (Central),PHRM4012 written exam,NA,0.5,1
+PHRM4031,Exam - during Exam Period (Central),Business of Healthcare Exam,NA,0.6,1
