@@ -58,13 +58,15 @@ Bpharm
 # write.csv(Bpharm, file = "bpharm.csv")
 
 
-# ecp_links[1] %>% str_replace("section_1", "section_5")
-# ecp_links %>%  str_replace("section_1", "section_5")
+# The following will create a column with specific links to the Assessment section of the ECP
 ecp_links_assessment <- ecp_links %>%  str_replace("section_1", "section_5")
+
+# The following will create a column with specific links to the Learning Objectives section of the ECP
+ecp_links_lo <- ecp_links %>%  str_replace("section_1", "section_2")
 
 # Bpharm <- data.frame(course_names,course_links, ecp_links, ecp_links_assessment)
 
-Bpharm <- tibble(course_names,course_links, ecp_links, ecp_links_assessment)
+Bpharm <- tibble(course_names,course_links, ecp_links, ecp_links_assessment, ecp_links_lo)
 
 
 # df1 <- ecp_links_assessment[1] %>% read_html() %>% html_nodes("table") %>% html_table(header = TRUE) #%>% as.data.frame()
@@ -72,6 +74,9 @@ Bpharm <- tibble(course_names,course_links, ecp_links, ecp_links_assessment)
 # task <- ecp_links_assessment[2] %>% read_html() %>% html_nodes("tbody .text-center:nth-child(1)") %>% html_text(trim=TRUE)  %>% str_replace("\\n[:space:]*\\n[:space:]*",":")
 # 
 # weight <- ecp_links_assessment[2] %>% read_html() %>% html_nodes("tbody .text-center:nth-child(3)") %>% html_text(trim=TRUE) %>% str_replace("%","") %>% as.numeric()/100
+
+learning_obj <- ecp_links_lo[1] %>% read_html() %>% html_nodes(".objectives-list span") %>% html_text(trim=TRUE)
+learning_obj <- NULL
 
 # Above just picks out column 1; can modify this and then capture the rest
 
@@ -85,6 +90,10 @@ assessment_weight <- function(x){
   # need to modify this to also get the text; not all data is in the format of a percentage
 }
 
+# functions to scrape "learning objectives"
+learning_obj <- function(x){
+  read_html(x) %>% html_nodes(".objectives-list span") %>% html_text(trim=TRUE)
+}
 # Script to build the assessment data frame/tibble:
 
 task <- NULL
@@ -103,6 +112,22 @@ Bpharm_assessment <- tibble(course, task, weight)
 write.csv(Bpharm_assessment, file = "AssessmentDB.csv")
 rep(course_names[i], length(assessment_task(ecp_links_assessment[i])))
 test_task <- assessment_task(ecp_links_assessment[30])
+
+#####
+
+## Script to build learning objective data frame/tibble:
+
+lo <- NULL
+course <- NULL
+
+for (i in 1:length(course_links)){
+  lo <- c(lo, learning_obj(ecp_links_lo[i]))
+  course <- c(course, rep(course_names[i], length(learning_obj(ecp_links_lo[i]))))
+}
+
+Bpharm_learningobj <- tibble(course, lo)
+
+write.csv(Bpharm_learningobj, file = "BPharm_learningobj.csv")
 
 #####
 
